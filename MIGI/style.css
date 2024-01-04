@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    margin-top: 200px;
+}
+.result{
+    margin: 50px;
+    padding: 10px;
+    font-size: xx-large
+}
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.input button{
+    width: 100px;
+    height: 50px;
+    border: 0;
+    background-color: gold;
+    border-radius: 10px;
+    cursor: pointer;
+
+
+}
